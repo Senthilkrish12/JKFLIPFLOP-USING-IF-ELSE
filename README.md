@@ -1,3 +1,6 @@
+Developed by: Senthil Raj G
+
+RegisterNumber: 212224100054
 # JKFLIPFLOP-USING-IF-ELSE
 
 **AIM:** 
